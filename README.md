@@ -12,7 +12,7 @@ Scripts:
 Multiple iterations of boardfinder.py + generator.py need to be run since when the angles are converted into a 3D shape the rebound trajectory of the ball is affected.
 
 Notes:
-* The code were separated into multiple scripts to make debugging easier and can be combined if needed
+* The code was separated into multiple scripts to make debugging easier and can be combined if needed
 * The ball pivot algorithm was used in MeshLab for making the mesh from the point cloud
 * The mesh was exported as an STL and imported into Fusion360 to create the final backboard design based on the mesh
 * I decided to 3D print the backboard so it was split into six pieces to fit my printer's bed and assembled with alignment pins and superglue
