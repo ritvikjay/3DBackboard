@@ -9,7 +9,7 @@ backYMax = 9-rimOffset #measured from bottom of center of rim, +y is vertically 
 backYMin = rimOffset
 backLengthStep = 1
 
-file = open('anglesbackup','rb')
+file = open('angles','rb')
 output = pickle.load(file)
 file.close()
 fig = plt.figure()
