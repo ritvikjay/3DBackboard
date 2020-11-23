@@ -16,3 +16,4 @@ Notes:
 * The ball pivot algorithm was used in MeshLab for making the mesh from the point cloud
 * The mesh was exported as an STL and imported into Fusion360 to create the final backboard design based on the mesh
 * I decided to 3D print the backboard so it was split into six pieces to fit my printer's bed and assembled with alignment pins and superglue
+* Issues with shots on the sides and top corners bouncing off the rim sometimes. Might be due to the shots I chose to optimize for being different from the shots that actually occur in real life.
